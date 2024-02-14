@@ -30,3 +30,5 @@ Create a shortcut to this script on the desktop so that non-technical staff can 
 ## Run the server
 
 Double click the shortcut you have created on the desktop to run the server.
+
+The server will run on port 3001.
